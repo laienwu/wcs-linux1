@@ -1,0 +1,22 @@
+wilder@wilder-ThinkPad-T430s:~$ ll
+total 56K
+-rw-r--r-- 1 wilder wilder 8,8K févr.  1 16:17 examples.desktop
+drwxr-xr-x 2 wilder wilder 4,0K mars  13 12:09 Vidéos
+drwxr-xr-x 2 wilder wilder 4,0K mars  13 12:09 Téléchargements
+drwxr-xr-x 2 wilder wilder 4,0K mars  13 12:09 Public
+drwxr-xr-x 2 wilder wilder 4,0K mars  13 12:09 Musique
+drwxr-xr-x 2 wilder wilder 4,0K mars  13 12:09 Modèles
+drwxr-xr-x 2 wilder wilder 4,0K mars  13 12:09 Documents
+drwxr-xr-x 2 wilder wilder 4,0K mars  13 12:09 Bureau
+drwxr-xr-x 6 wilder wilder 4,0K mars  14 00:05 venv
+drwxr-xr-x 3 wilder wilder 4,0K mars  14 08:08 snap
+drwxr-xr-x 4 wilder wilder 4,0K mars  14 08:15 projects
+drwxr-xr-x 2 wilder wilder 4,0K mars  14 14:45 Images
+wilder@wilder-ThinkPad-T430s:~$ pwd
+/home/wilder
+wilder@wilder-ThinkPad-T430s:~$ cd ..
+wilder@wilder-ThinkPad-T430s:/home$ ls
+wilder
+wilder@wilder-ThinkPad-T430s:/home$ ^C
+wilder@wilder-ThinkPad-T430s:/home$ 
+
